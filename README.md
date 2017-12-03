@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alejandroliu/pocketmine-plugins/master/Media/WorldProtect-icon.png" style="width:64px;height:64px" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/poggit-orphanage/WorldProtect/72a6583a7bc68edf01c1f0b6db9ce069890b9192/worldprotect.png" style="width:64px;height:64px" width="64" height="64"/>
 
 <!-- meta:Categories = Anti-Griefing -->
 <!-- meta:PluginAccess = Commands, Data Saving, World Editing -->
